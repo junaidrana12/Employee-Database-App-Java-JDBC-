@@ -44,5 +44,6 @@ CREATE TABLE employees (
 <img width="958" height="502" alt="Screenshot 1 employee db" src="https://github.com/user-attachments/assets/ff7ad1c5-8de6-4c5a-bbf7-908230ecd4b8" />
 <img width="955" height="499" alt="screenshot 2 employee db" src="https://github.com/user-attachments/assets/143d69f0-4aca-400d-9403-9100c4597966" />
 <img width="959" height="500" alt="screenshot 3 emp db" src="https://github.com/user-attachments/assets/6f4f0db8-8c03-428c-9872-b07fa033050b" />
+<img width="958" height="500" alt="image" src="https://github.com/user-attachments/assets/09a3fb7c-bef7-4155-b58a-1759daac3b4e" />
 
 
